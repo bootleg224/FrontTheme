@@ -75,6 +75,9 @@
 *,::after,::before {
 	box-sizing: border-box;
 }
+div#topbarNavDropdown {
+    display: none!important;
+}
 
 body {
 	margin: 0;
